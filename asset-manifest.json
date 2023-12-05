@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jan-Ahmed/static/css/main.e6c13ad2.css",
+    "main.js": "/Jan-Ahmed/static/js/main.a84cef3e.js",
+    "static/js/787.5d2b1d77.chunk.js": "/Jan-Ahmed/static/js/787.5d2b1d77.chunk.js",
+    "index.html": "/Jan-Ahmed/index.html",
+    "main.e6c13ad2.css.map": "/Jan-Ahmed/static/css/main.e6c13ad2.css.map",
+    "main.a84cef3e.js.map": "/Jan-Ahmed/static/js/main.a84cef3e.js.map",
+    "787.5d2b1d77.chunk.js.map": "/Jan-Ahmed/static/js/787.5d2b1d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a84cef3e.js"
+  ]
+}
