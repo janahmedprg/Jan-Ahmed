@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jan-Ahmed/static/css/main.d2e3de12.css",
-    "main.js": "/Jan-Ahmed/static/js/main.6df2a7d8.js",
+    "main.js": "/Jan-Ahmed/static/js/main.2cedd4dd.js",
     "static/js/787.5d2b1d77.chunk.js": "/Jan-Ahmed/static/js/787.5d2b1d77.chunk.js",
     "static/media/janpic.jpg": "/Jan-Ahmed/static/media/janpic.25ea7b5fdc6785807555.jpg",
     "static/media/KaTeX_AMS-Regular.ttf": "/Jan-Ahmed/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -66,11 +66,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/Jan-Ahmed/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/Jan-Ahmed/index.html",
     "main.d2e3de12.css.map": "/Jan-Ahmed/static/css/main.d2e3de12.css.map",
-    "main.6df2a7d8.js.map": "/Jan-Ahmed/static/js/main.6df2a7d8.js.map",
+    "main.2cedd4dd.js.map": "/Jan-Ahmed/static/js/main.2cedd4dd.js.map",
     "787.5d2b1d77.chunk.js.map": "/Jan-Ahmed/static/js/787.5d2b1d77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2e3de12.css",
-    "static/js/main.6df2a7d8.js"
+    "static/js/main.2cedd4dd.js"
   ]
 }
